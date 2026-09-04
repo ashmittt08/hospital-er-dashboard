@@ -1,0 +1,3 @@
+# Hospital-Emergency-Room-Dashboard
+Hospital ER Dashboard (Power BI) – Developed an interactive dashboard to monitor emergency room performance metrics, including patient referrals, wait times, and department load. Utilized DAX measures and Power BI visualizations to track KPIs, identify bottlenecks, and provide actionable insights for hospital operations.
+Built a Power BI dashboard with dynamic KPI scorecards, DAX measures, and drill-down visuals to monitor ER performance metrics such as patient referrals, wait times, and department load. Connected and transformed raw data using Power Query, enabling actionable operational insights.
